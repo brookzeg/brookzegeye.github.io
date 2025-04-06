@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brookzegeye.github.io/static/css/main.bebc91f6.css",
+    "main.js": "/brookzegeye.github.io/static/js/main.147e6f5c.js",
+    "static/js/453.acca0757.chunk.js": "/brookzegeye.github.io/static/js/453.acca0757.chunk.js",
+    "index.html": "/brookzegeye.github.io/index.html",
+    "main.bebc91f6.css.map": "/brookzegeye.github.io/static/css/main.bebc91f6.css.map",
+    "main.147e6f5c.js.map": "/brookzegeye.github.io/static/js/main.147e6f5c.js.map",
+    "453.acca0757.chunk.js.map": "/brookzegeye.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebc91f6.css",
+    "static/js/main.147e6f5c.js"
+  ]
+}
